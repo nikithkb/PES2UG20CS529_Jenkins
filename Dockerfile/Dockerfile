@@ -5,4 +5,4 @@ USER root
 RUN apt-get update && apt-get install -y make && apt-get install -y g++ --fix-missing
 # drop back to the regular jenkins user - good practice
 USER jenkins
-#a65dda98825c43598797e411a544742f password
+# 9a7cc4d3c92742d5b2f3aa0c2d673fec password
